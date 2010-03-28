@@ -1,6 +1,6 @@
 # alternative.rb
 # Rails application template with
-# Haml + Machinist + Faker + Flexmock + Rspec + Blueprint-css.
+# Git + Haml + Machinist + Faker + Flexmock + Rspec + Blueprint-css.
 
 gem 'haml'
 gem 'machinist'
